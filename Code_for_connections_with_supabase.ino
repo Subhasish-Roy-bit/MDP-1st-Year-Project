@@ -11,12 +11,12 @@
 #define DHTPIN 14
 #define DHTTYPE DHT11
 
-#define WIFI_SSID "OPPO A5 Pro 5G"
-#define WIFI_PASSWORD "subhasish"
+#define WIFI_SSID " "
+#define WIFI_PASSWORD " "
 
 // Supabase
-const char* supabaseUrl = "https://dwuyzgonadtdfznqudcs.supabase.co/rest/v1/ev_data";
-const char* supabaseKey = "sb_publishable_-0hNG2OJbqQN7Tnc8ewybw_TCvtOrSU";
+const char* supabaseUrl = " ";
+const char* supabaseKey = " ";
 
 Adafruit_SSD1306 display(128,64,&Wire,-1);
 Adafruit_INA219 ina219;
