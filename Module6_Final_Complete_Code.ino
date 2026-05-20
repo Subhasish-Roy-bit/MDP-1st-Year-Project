@@ -45,12 +45,12 @@
 #include <math.h>
 
 // ── WiFi CREDENTIALS ─────────────────────────────────────
-#define WIFI_SSID     "OPPO A5 Pro 5G"
-#define WIFI_PASSWORD "subhasish"
+#define WIFI_SSID     " "
+#define WIFI_PASSWORD " "
 
 // ── SUPABASE CREDENTIALS ──────────────────────────────────
-const char* SUPABASE_URL = "https://dwuyzgonadtdfznqudcs.supabase.co/rest/v1/ev_data";
-const char* SUPABASE_KEY = "sb_publishable_-0hNG2OJbqQN7Tnc8ewybw_TCvtOrSU";
+const char* SUPABASE_URL = " ";
+const char* SUPABASE_KEY = " ";
 
 // ── PIN DEFINITIONS ───────────────────────────────────────
 #define SDA_PIN        26   // I2C SDA  → OLED + INA219
